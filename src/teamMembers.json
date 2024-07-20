@@ -1,0 +1,43 @@
+[
+  {
+    "id": "222-eed-ww3",
+    "image": "/src/assets/images/team/member-1.jpg",
+    "name": "john kenny",
+    "role": "content writer"
+  },
+
+  {
+    "id": "1e2-ki8-1qw",
+    "image": "/src/assets/images/team/member-2.jpg",
+    "name": "chole ben",
+    "role": "digital marketer"
+  },
+
+  {
+    "id": "ers-234-9w9",
+    "image": "/src/assets/images/team/member-3.jpg",
+    "name": "chris paul",
+    "role": "product designer"
+  },
+
+  {
+    "id": "df4-lko-09o",
+    "image": "/src/assets/images/team/member-4.jpg",
+    "name": "annie harlow",
+    "role": "product manager"
+  },
+
+  {
+    "id": "jk4-2w3-p0i",
+    "image": "/src/assets/images/team/member-5.jpg",
+    "name": "matt davison",
+    "role": "data analyst"
+  },
+
+  {
+    "id": "fr2-qwe-m2w",
+    "image": "/src/assets/images/team/member-6.jpg",
+    "name": "joy dave",
+    "role": "backend developer"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "fr2-qwe-m2w",
+    "image": "/src/assets/images/testimonials/img-1.jpg",
+    "name": "danny kai",
+    "role": "Customer",
+    "review": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint laboriosam mollitia iste dolorum incidunt iure? Minus reprehenderit ipsa perspiciatis optio dolor totam beatae voluptatum, repellat exercitationem earum! Cupiditate omnis porro maxime quam mollitia consequuntur recusandae."
+  },
+
+  {
+    "id": "k34-t25-xs9",
+    "image": "/src/assets/images/testimonials/img-2.jpg",
+    "name": "pit matt",
+    "role": "Customer",
+    "review": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint laboriosam mollitia iste dolorum incidunt iure? Minus reprehenderit ipsa perspiciatis optio dolor totam beatae voluptatum, repellat exercitationem earum! Cupiditate omnis porro maxime quam mollitia consequuntur recusandae."
+  },
+
+  {
+    "id": "jk4-2w3-p0i",
+    "image": "/src/assets/images/testimonials/img-3.jpg",
+    "name": "david benny",
+    "role": "Customer",
+    "review": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint laboriosam mollitia iste dolorum incidunt iure? Minus reprehenderit ipsa perspiciatis optio dolor totam beatae voluptatum, repellat exercitationem earum! Cupiditate omnis porro maxime quam mollitia consequuntur recusandae."
+  },
+
+  {
+    "id": "df4-lko-09o",
+    "image": "/src/assets/images/testimonials/img-4.jpg",
+    "name": "mary jane",
+    "role": "Customer",
+    "review": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint laboriosam mollitia iste dolorum incidunt iure? Minus reprehenderit ipsa perspiciatis optio dolor totam beatae voluptatum, repellat exercitationem earum! Cupiditate omnis porro maxime quam mollitia consequuntur recusandae."
+  }
+]
