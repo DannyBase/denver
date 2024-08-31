@@ -16,13 +16,15 @@ const App = () => {
       setLoading(false);
     };
 
-
-    window.addEventListener("load", handleLoad);
-  
+    // Check if the document has already loaded
+    if (document.readyState === "complete") {
+      handleLoad();
+    } else {
+      window.addEventListener("load", handleLoad);
+    }
 
     return () => {
       window.removeEventListener("load", handleLoad);
-     
     };
   }, []);
 
@@ -38,27 +40,21 @@ const App = () => {
             display: "flex",
             justifyContent: "center",
             alignItems: "center",
-            textAlign:"center",
+            textAlign: "center",
             zIndex: 10000,
             backgroundColor: "rgba(0,0,0,0.4)",
-              backdropFilter: "blur(10px)"
+            backdropFilter: "blur(10px)", // Consider removing if Edge has issues with this
           }}>
           <Spinner loading={loading} />
         </div>
       )}
 
       <Home name="home" />
-
       <AboutUs name="about-us" />
-
       <OurServices name="our-services" />
-
       <Team name="team" />
-
       <Testimonials name="testimonials" />
-
       <ContactUs name="contact-us" />
-
       <Footer />
     </>
   );
